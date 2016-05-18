@@ -1,0 +1,7 @@
+{
+  "name": "got",
+  "main": "index.d.ts",
+  "ambientDevDependencies": {
+    "node": "registry:dt/node#4.0.0+20160311162451"
+  }
+}
